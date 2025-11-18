@@ -1,0 +1,9 @@
+.post-container h2 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+.post-container .post {
+  line-height: 1.6;
+  margin-bottom: 1.5em;
+  border-bottom: none;
+}
